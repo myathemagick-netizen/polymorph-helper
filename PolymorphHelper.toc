@@ -4,6 +4,7 @@
 ## Author: Myathe
 ## Version: 1.0.0
 ## IconTexture: Interface\Icons\Spell_Nature_Polymorph
+## X-Curse-Project-ID: 1510600
 ## SavedVariables:
 
 PolymorphHelper.lua
