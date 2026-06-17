@@ -1,4 +1,4 @@
-## Interface: 120005
+## Interface: 120007
 ## Title: Polymorph Helper
 ## Notes: Shows which Polymorph variants your Mage has learned and how to get the ones you're missing.
 ## Author: Myathe
