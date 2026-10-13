@@ -30,6 +30,8 @@ Type `/polyhelp` in chat to see your Polymorph variant status.
 
 ## Notes
 
+Targets Midnight (12.1.5), interface 120105.
+
 Sheep is always known and is not tracked. Most tomes can also be found on the Auction House if you don't want to farm them directly.
 
 ## Part of the Helper Suite

@@ -1,8 +1,8 @@
-## Interface: 120100
+## Interface: 120105
 ## Title: Polymorph Helper
 ## Notes: Shows which Polymorph variants your Mage has learned and how to get the ones you're missing.
 ## Author: Myathe
-## Version: 1.0.2
+## Version: 1.0.3
 ## IconTexture: Interface\Icons\Spell_Nature_Polymorph
 ## X-Curse-Project-ID: 1510600
 ## SavedVariables:
